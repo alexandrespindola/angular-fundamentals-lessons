@@ -10,8 +10,6 @@ import { CommonModule } from '@angular/common';
       home works!
     </p>
   `,
-  styles: ``
+  styles: ``,
 })
-export class HomeComponent {
-
-}
+export class HomeComponent {}
